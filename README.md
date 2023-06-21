@@ -2,7 +2,9 @@
 - 👀 I’m interested in virtualization, automation and development
 - 🌱 I’m a Cloud/DevOps consultant at Onepoint  
 - 📫 How to reach me? Simply by email
+  
     Professional email : o.drid@groupeonepoint.com
+  
     Personal email : drid.oussama@gmail.com
 
 <!---
