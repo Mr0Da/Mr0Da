@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oussama Abdelhak DRID 
 - 👀 I’m interested in virtualization, automation and development
-- 🌱 I’m currently searching for a DevOps internship 
+- 🌱 I’m a Cloud/DevOps consultant at Onepoint  
 - 📫 How to reach me? Simply by mail at drid.oussama@gmail.com
 
 <!---
